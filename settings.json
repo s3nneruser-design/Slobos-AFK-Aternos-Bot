@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.23",
+    "ip": "souljahwitch.play.hosting",
     "port": 25660,
     "version": "1.21.11",
     "try-creative": false
