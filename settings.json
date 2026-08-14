@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "62.141.62.23",
-    "port": 28333,
+    "ip": "testing12345meow.falixsrv.me",
+    "port": 28433,
     "version": "1.21.11",
     "try-creative": false
   },
